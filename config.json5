@@ -1,5 +1,5 @@
-{
-  "token": "NzgwOTYwMjkzNzkwMDIzNjkx.X72r8w.NfgxQLLNY-5wGjVnFfX1NRZt0TM",
+/**{
+  "token": "[redacted]",
   "testPilots": ["498257987992027158"],
   "NASAtoken": "<to enable /astronomy-picture-of-the-day or /apod>",
   "oxfordAPI": {
@@ -12,4 +12,4 @@
   "cvAPIkey": "<a http://cloud.google.com/vision API key for /ocr and text recognition>",
   "mongoURL": "<the link to your MongoDB database instance>",
   "rootURL": "<the root link to the dashboard with http(s):// and no / at the end>"
-}
+}**/
